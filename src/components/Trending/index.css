@@ -1,0 +1,12 @@
+.hh {
+  font-weight: 500 !important;
+  font-size: 19px !important;
+  line-height: 2 !important;
+}
+.pd {
+  padding-top: 10px !important;
+}
+* {
+  margin: 0px;
+  padding: 0px;
+}
